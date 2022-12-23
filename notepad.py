@@ -31,8 +31,8 @@ def getInput(enterpress):
             saveFile()
         elif el == "!clear":
             clearContents()
-        elif el == "!close":
-            closeFile()
+        elif el == "!exit":
+            exitFile()
         else:
             continue
 
@@ -68,7 +68,7 @@ def clearContents():
 
 
 #closes the file
-def closeFile():
+def exitFile():
     sys.exit()
 
 
