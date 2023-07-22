@@ -1,5 +1,5 @@
 # notepad
-A simple notepad that uses typed commands to open, save, clear, and close the files.
+A simple text editor that uses typed commands to open, save, clear, and close the files.
 
 !open - prompts user to open a new file
 !save - allows user to save as and terminates the program
